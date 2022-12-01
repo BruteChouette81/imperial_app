@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "imperial_app",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
