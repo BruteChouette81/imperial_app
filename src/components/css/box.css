@@ -1,0 +1,12 @@
+.box{
+    background-color: rgba(48, 165, 105, 0.724);
+    border-style: solid;
+    border-color: rgb(40, 42, 42);
+    border-radius: 16px;
+    padding: 7px;
+    margin: 10px;
+}
+
+.box h2 {
+    margin-left: 10px;
+}
